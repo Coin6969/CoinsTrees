@@ -15,32 +15,12 @@
         <Item>lev_des</Item>
         <Item>cs_xref</Item>
         <Item>country_04_metadata_001_strm</Item>
-      </itypDepArray>
-    </Item>
-    <Item>
-      <imapName>cs4_09_strm_0</imapName>
-      <manifestFlags/>
-      <itypDepArray>
-        <Item>country_04_metadata_011_strm</Item>
-        <Item>v_fences</Item>
-        <Item>v_rubbish</Item>
-        <Item>v_garden</Item>
-        <Item>v_seating_tables</Item>
-        <Item>v_potted</Item>
-        <Item>v_rooftop</Item>
-        <Item>v_coin_op</Item>
-        <Item>v_garage</Item>
-        <Item>v_utility</Item>
+        <Item>v_office</Item>
+        <Item>v_industrial</Item>
+        <Item>v_set_pieces</Item>
+        <Item>p_v_lev_des_skin</Item>
+        <Item>cutsobjects</Item>
         <Item>v_signs</Item>
-        <Item>v_traffic_lights</Item>
-        <Item>v_minigame</Item>
-        <Item>v_storage</Item>
-        <Item>v_fences_2</Item>
-        <Item>v_bins</Item>
-        <Item>v_ext_veg</Item>
-        <Item>v_construction</Item>
-        <Item>v_electrical</Item>
-        <Item>v_bush</Item>
       </itypDepArray>
     </Item>
   </imapDependencies_2>
