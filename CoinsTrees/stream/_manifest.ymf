@@ -22,6 +22,12 @@
         <Item>p_v_lev_des_skin</Item>
         <Item>cutsobjects</Item>
         <Item>v_signs</Item>
+        <Item>v_coin_op</Item>
+        <Item>v_minigame</Item>
+        <Item>v_storage</Item>
+        <Item>v_construction</Item>
+        <Item>v_industrial_2</Item>
+        <Item>v_sports</Item>
       </itypDepArray>
     </Item>
   </imapDependencies_2>
